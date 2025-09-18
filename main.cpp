@@ -21,7 +21,7 @@ int main() {
               .column("price", 2615.54)
               .column("amount", 0.00044)
               .at(questdb::ingress::timestamp_nanos::now());
-HEJ MIT NAVN ER MAGNUS 
+ 
         // Send the data
         sender.flush(buffer);
 

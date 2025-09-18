@@ -1,6 +1,8 @@
 #include "deps/c-questdb-client/include/questdb/ingress/line_sender.hpp"
 #include <iostream>
 
+halløj dit klamme svin!!
+
 int main() {
     try {
         // Create the sender using the connection string
